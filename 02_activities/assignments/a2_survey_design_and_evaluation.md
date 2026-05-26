@@ -150,7 +150,7 @@ Conducted by: Statistics Canada
     cycles because the online questionnaire mode was introduced for the first time.
 
 13. Documentation: Statistics Canada PUMF User Guide (2018 GSS GVP):
-    https://www150.statcan.gc.ca/n1/pub/45-25-0001/452500012019001-eng.htm
+    https://www150.statcan.gc.ca/n1/pub/45-25-0001/cat5/c33_2018.zip
 ```
 
 ## Rubric
